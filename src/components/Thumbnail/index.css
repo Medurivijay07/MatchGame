@@ -1,0 +1,14 @@
+.image-style {
+  height: 70px;
+}
+
+.each-thumbnail {
+  margin: 10px;
+}
+
+.thumbnai-button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
